@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98855" started-at="2021-07-12T21:03:33Z" finished-at="2021-07-12T21:05:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98855" started-at="2021-07-12T21:03:33Z" finished-at="2021-07-12T21:05:12Z">
+      <class name="TestCases.AddToDoTest">
+        <test-method status="PASS" signature="AddSingleItemTest()[pri:1, instance:TestCases.AddToDoTest@1fc2b765]" name="AddSingleItemTest" duration-ms="19277" started-at="2021-07-13T02:33:33Z" finished-at="2021-07-13T02:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddSingleItemTest -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:TestCases.AddToDoTest@1fc2b765]" name="flushReports" is-config="true" duration-ms="108" started-at="2021-07-13T02:33:53Z" finished-at="2021-07-13T02:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="AddMultipleItemTest()[pri:2, instance:TestCases.AddToDoTest@1fc2b765]" name="AddMultipleItemTest" duration-ms="17788" started-at="2021-07-13T02:33:53Z" finished-at="2021-07-13T02:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMultipleItemTest -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:TestCases.AddToDoTest@1fc2b765]" name="flushReports" is-config="true" duration-ms="897" started-at="2021-07-13T02:34:10Z" finished-at="2021-07-13T02:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="ClickToDoCheckBox()[pri:3, instance:TestCases.AddToDoTest@1fc2b765]" name="ClickToDoCheckBox" duration-ms="20402" started-at="2021-07-13T02:34:11Z" finished-at="2021-07-13T02:34:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickToDoCheckBox -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:TestCases.AddToDoTest@1fc2b765]" name="flushReports" is-config="true" duration-ms="234" started-at="2021-07-13T02:34:32Z" finished-at="2021-07-13T02:34:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method status="PASS" signature="ClearCompletedToDo()[pri:4, instance:TestCases.AddToDoTest@1fc2b765]" name="ClearCompletedToDo" duration-ms="39868" started-at="2021-07-13T02:34:32Z" finished-at="2021-07-13T02:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearCompletedToDo -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:TestCases.AddToDoTest@1fc2b765]" name="flushReports" is-config="true" duration-ms="235" started-at="2021-07-13T02:35:12Z" finished-at="2021-07-13T02:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- TestCases.AddToDoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
